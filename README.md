@@ -1,9 +1,9 @@
 # Labspy01
 ## Daftar isi
-* [Latihan 1](https://github.com/kyuurazz/labspy01/#latihan1)
-* [Latihan 2](https://github.com/kyuurazz/labspy01/#Latihan2)
-* [Latihan 3](https://github.com/kyuurazz/labspy01/#Latihan3)
-* [Latihan 4](https://github.com/kyuurazz/labspy01/#Latihan4)
+- [Latihan 1](https://github.com/kyuurazz/labspy01/#latihan-1)
+- [Latihan 2](https://github.com/kyuurazz/labspy01/#latihan-2)
+- [Latihan 3](https://github.com/kyuurazz/labspy01/#latihan-3)
+- [Latihan 4](https://github.com/kyuurazz/labspy01/#latihan-4)
 # Latihan 1
 Program Sederhana Menampilkan Bilangan Terbesar
 
